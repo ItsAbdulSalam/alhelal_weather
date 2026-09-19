@@ -25,4 +25,4 @@ A modern, responsive cross-platform weather application built with **Flutter** a
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ItsAbdulSalam/alhelal_weather.git](https://github.com/ItsAbdulSalam/alhelal_weather.git)
+   git clone https://github.com/ItsAbdulSalam/alhelal_weather.git
